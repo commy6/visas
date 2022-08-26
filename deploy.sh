@@ -5,4 +5,4 @@ echo Jesus is lord and the master of all.
 echo God bless you
 date 
 whoami
-
+echo thanks and have a gooood day`
